@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi there, I'm Krishna Bhatt
 
-<!--
-**kbhatt26/kbhatt26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack PHP Developer | Laravel | WordPress | MySQL  
+📍 Based in London, UK | Open to Remote & Hybrid Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I’m a passionate web developer with 5+ years of experience building dynamic, full-stack applications using PHP, Laravel, and WordPress. Recently returning from a career break, I’m now focused on modernizing my tech stack and building hands-on portfolio projects.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`PHP` `JavaScript` `Laravel` `CodeIgniter` `WordPress`  
+
+**Frontend**  
+`HTML5` `CSS3` `Bootstrap` `jQuery` `AJAX`
+
+**Database & Cloud**  
+`MySQL` `SQL` `AWS EC2` `PHPMyAdmin`  
+
+**Tools & Workflows**  
+`Git` `GitHub` `Agile/Scrum` `VS Code`  
+
+---
+
+### 📘 Currently Learning
+- Laravel 10 with REST APIs
+- Docker Basics
+- Vue.js
+- PHPUnit Testing
+- Building GitHub Portfolio Projects
+
+---
+
+### 📂 Featured Projects
+| Project | Tech | Description |
+|--------|------|-------------|
+| **Task Manager** | Laravel, MySQL | CRUD-based to-do list with user login |
+| **Custom WordPress Blog** | WordPress, PHP | A responsive blog theme with admin features |
+| *(More coming soon)* | | |
+
+---
+
+### 📫 Contact Me
+📧 Email: krishnas.patel26@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/krishna-bhatt-kb26
+
+---
+
+_Thanks for stopping by! Let's connect and build something cool together 🚀_
